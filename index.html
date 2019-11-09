@@ -1,12 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+<!-- Referenced Random Word Generator CodePen by Pete Hearne
+https://codepen.io/justpete/pen/ogNBPp -->
+
 	<meta charset="UTF-8">
-	<title>Unfiltered</title>
+	<title>Urban Dictionary Random Word Generator</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="ud.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- <meta http-equiv="refresh" content="30; url=index.html"> -->
+
 </head>
+
 <body>
-	<p>This is just a test.</p>
-	<a class="twitter-timeline" href="https://twitter.com/dma_unfiltered?ref_src=twsrc%5Etfw">Tweets by dma_unfiltered</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<h1>🗣 to me in <i>millennial</i> 🥴</h1>
+<div class="container-gen">
+	<!-- <h1>🗣 to me in <i>millennial</i> 🥴</h1> -->
+	<div class="sub-section">
+		<h2>learn 📖 a new word and tweet it to me 🤩</h2>
+		<div id="button">
+			<button onclick="urbanTerm()">update me!</button>
+		</div>
+		<p id="ud-term"></p>
+	</div>
+
+	<div class="tweets">
+		<a class="twitter-timeline" data-height="1000" data-theme="light" data-link-color="#F7B4BB" href="https://twitter.com/dma_unfiltered?ref_src=twsrc%5Etfw">Tweets by dma_unfiltered</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
+
+	<div class="meme">
+		<p> leave a meme here</p>
+	</div>
+
+</div>
+
+
+
 </body>
 </html>
