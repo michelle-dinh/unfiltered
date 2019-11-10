@@ -29,7 +29,7 @@ term[0] = "<b><center>tea</center></b>" + "<br>" +
 "<h6>entry by missmiaonfire</h6>";
 term[1] = "<b><center>shook</center></b>" + "<br>" + 
 "<h6>shocked or surprised af. can't believe what you're seeing</h6>" + 
-"<h6>[Ex.] <i>Girrrrl look at my highlighter</i> <br><br><br><br> BITCH I'M <i>SHOOK</i></h6>" +
+"<h6>[Ex.] <i>Girrrrl look at my highlighter</i> <br><br> BITCH I'M <i><b>SHOOK</b></i></h6>" +
 "<h6>entry by __kolster</h6>";
 ;
 // term[2] = "oof";
