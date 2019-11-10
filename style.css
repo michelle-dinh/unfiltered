@@ -1,22 +1,100 @@
-
-body {
-	margin: 0;
-}
-
 h1 {
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 700;
 	text-align: center;
+	color: #F7B4BB;
+	font-family: "Helvetica Neue", sans-serif;
 }
-p {
-  	font-family: 'Open Sans', sans-serif;
+
+h2 {
+	text-align: center;
+	color: #000;
+	font-family: "Helvetica Neue", sans-serif;
+
+} 
+
+h6 {
+	font-size: 20px;
+	font-family: "Helvetica Neue", sans-serif;
 	font-weight: 300;
-	font-size: 15px;
-	text-align: center;
-
 }
 
-.container {
+#wordbox {
+    /*opacity: 0;*/
+    margin: 30px auto 0;
+    display: block;
+    width: 300px;
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+    background: #fff;
+    transition: 1s linear;
+}
+
+#definition {
+    /*opacity: 0;*/
+    margin: 30px auto 0;
+    display: block;
+    width: 300px;
+    height: 40px;
+    font-size: 15px;
+    text-align: center;
+    background: #fff;
+    transition: 1s linear;
+}
+
+button {
+  	background: #F7B4BB;
+    border: 0;
+    color: #fff;
+    font-size: 15px;
+    padding: 1em 2em;
+    cursor: pointer;
+    margin: 0 auto 60px;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.container-gen {
+	grid-gap: 20px;
 	margin: 0 auto;
-	width: 800px;
+	padding: 0;
+	width: 90%;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	grid-template-areas: "left right" 
+						 "left right2";
+						 justify-content: center;
+      align-content: start;
+						 
 }
+
+.sub-section {
+	padding: 0;
+	text-align: center;
+	border: 2px solid #F7B4BB;
+	grid-area: right;
+	/*justify-content: center;*/
+}
+
+.tweets {
+	grid-area: left;
+	border: 2px solid #F7B4BB;
+}
+
+#ud-term {
+	margin: 0 auto;
+	width: 80%;
+	color: #000;
+	font-family: "Helvetica Neue", sans-serif;
+	font-weight: 300;
+	font-size: 40px;
+	line-height: 10px;
+}
+
+.meme {
+	grid-area: right2;
+	border: 2px solid #F7B4BB;
+}
+
