@@ -67,33 +67,33 @@ term[7] = "<b><center>receipts</center></b>" + "<br>" +
 term[8] = "<b><center>beat</center></b>" + "<br>" + 
 "<h6>When something is uncool, lame, dumb, ugly, boring. Anything that is displeasuring.</h6>" + 
 "<h6>[Ex.] <i>Thats <b>Beat</b>. <br> You're <b>Beat</b> <br>Homework is <b>Beat.</b> <br>That shits <b>Beat</b></i></h6>" +
-"<h6>entry by  cxxzz [2011]</h6>";
+"<h6>entry by cxxzz [2011]</h6>";
 
 term[9] = "<b><center>no cap</center></b>" + "<br>" + 
 "<h6>No cap basically mean that they're not lying <br>or capping like they did something. <br> Sometimes ppl write it like this🙅🏽 ♀️🧢or 🚫🧢 different ways</h6>" + 
 "<h6>[Ex.] <i>That food was good <b>no cap</b> <br> I hit that bit <b>no cap</b></i></h6>" +
-"<h6>entry by  Leelee😈 [2018]</h6>";
+"<h6>entry by Leelee😈 [2018]</h6>";
 
 term[10] = "<b><center>swerve</center></b>" + "<br>" + 
-"<h6>No cap basically mean that they're not lying <br>or capping like they did something. <br> Sometimes ppl write it like this🙅🏽 ♀️🧢or 🚫🧢 different ways</h6>" + 
-"<h6>[Ex.] <i>That food was good <b>no cap</b> <br> I hit that bit <b>no cap</b></i></h6>" +
-"<h6>entry by  Leelee😈 [2018]</h6>";
+"<h6>A word meaning 'Move, bitch.' It is an evolved form of the phrase once uttered by Ludacris: 'Move, bitch, get out the way.' <br>It is known as the most scholarly word of the new generation.ways</h6>" + 
+"<h6>[Ex.] <i>Oh shit. I need to use the bathroom. <b>Swerve</b>, bitch!</i></h6>" +
+"<h6>entry by my bff jill [2014]</h6>"
 
 term[11] = "<b><center>feels</center></b>" + "<br>" + 
 "<h6>A wave of emotions that sometimes cannot be adequately explained</h6>" + 
 "<h6>[Ex.] <i>Watching Back To The Future gives me all sorts of nostalgic <b>feels</b>.</i></h6>" +
-"<h6>entry by  KissTheDragon [2012]</h6>";
+"<h6>entry by KissTheDragon [2012]</h6>";
 
 term[12] = "<b><center>tbh</center></b>" + "<br>" + 
 "<h6>Tbh - to be honest. Is fucking overused and when ugly ass bitches post on their Instagram 'comment for a tbh!' <br>" + 
 "It means that they are gonna write some complete bullshit about how nice you <br> when they don't even give two fucks.... And then the next day you find out that motherfucker ain't even following you back.</h6>" + 
 "<h6>[Ex.] <i><b>Tbh</b> your so friendly and I love how you care so much about equality :)</i></h6>" +
-"<h6>entry by  Bitch peas [2016]</h6>";
+"<h6>entry by Bitch peas [2016]</h6>";
 
 term[13] = "<b><center>gucci</center></b>" + "<br>" + 
 "<h6>A versatile slang term based on the luxury fashion brand meaning okay/good/great/awesome/fresh/etc. Originally used in the streets but now popularized by the masses. Sometimes abbreviated 'gooch' if you're an expert in its use. <br>To be all Gucci is a wonderful thing indeed.</h6>" + 
 "<h6>[Ex.] <i>Hey. How are you? Haven't seen you in a while. Everything okay? <br> Yeah everything's <b>Gucci</b>. I've just been busy.</i></h6>" +
-"<h6>entry by  bazz22 [2018]</h6>";
+"<h6>entry by bazz22 [2018]</h6>";
 
 
 term[14] = "<b><center>lit</center></b>" + "<br>" + 
@@ -109,23 +109,27 @@ term[15] = "<b><center>shady</center></b>" + "<br>" +
 term[16] = "<b><center>bæ</center></b>" + "<br>" + 
 "<h6>Bæ/bae is a Danish word for poop. Also used by people on the internet who think it means baby, sweetie etc.</h6>" + 
 "<h6>[Ex.] <i><b>Bae</b> I love u so much <br> Brian, my <b>bae</b> <br> I just made a <b>bæ</b></i></h6>" +
-"<h6>entry by  ak3aeafdf [2014]</h6>";
+"<h6>entry by ak3aeafdf [2014]</h6>";
 
 term[17] = "<b><center>snatched</center></b>" + "<br>" + 
 "<h6>a popular term in the gay community referring to good looks, fierceness, or something good.</h6>" + 
 "<h6>[Ex.] <i>that wig is <b>snatched</b> hunny! is it real or synthetic?</i></h6>" +
-"<h6>entry by  flipandtwist2x [2011]</h6>";
+"<h6>entry by flipandtwist2x [2011]</h6>";
 
 term[18] = "<b><center>basic</center></b>" + "<br>" + 
 "<h6>only interested in things mainstream, popular, and trending</h6>" + 
 "<h6>[Ex.] <i>Omg BAE is so <b>basic</b>. all she wants to do is drink pumpkin spice lattes and play candy crush.</i></h6>" +
-"<h6>entry by  itsmeeeeeyo [2015]</h6>";
+"<h6>entry by itsmeeeeeyo [2015]</h6>";
 
-term[19] = "<b><center>basic</center></b>" + "<br>" + 
-"<h6>only interested in things mainstream, popular, and trending</h6>" + 
-"<h6>[Ex.] <i>Omg BAE is so <b>basic</b>. all she wants to do is drink pumpkin spice lattes and play candy crush.</i></h6>" +
-"<h6>entry by  itsmeeeeeyo [2015]</h6>";
-// term[20] = "G.O.A.T";
+term[19] = "<b><center>yas</center></b>" + "<br>" + 
+"<h6>An annoying expression used by girls expressing extreme liking.</h6>" + 
+"<h6>[Ex.] <i>Guy: Hey do you know that dude over there? <br> Girl: <b>YASSSS</b> he's so awesome like I mean <b>YASSSS</b>.</i></h6>" +
+"<h6>entry by WingsDude [2014]</h6>";
+
+term[20] = "<b><center>extra</center></b>" + "<br>" + 
+"<h6>over the top <br> excessive, dramatic behavior <br> way too much</h6>" + 
+"<h6>[Ex.] <i>Guy: Hey do you know that dude over there? <br> Girl: <b>YASSSS</b> he's so awesome like I mean <b>YASSSS</b>.</i></h6>" +
+"<h6>entry by WingsDude [2014]</h6>";
 // term[21] = "extra";
 // term[22] = "gucci";
 // term[23] = "keep it 100";
