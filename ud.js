@@ -1,27 +1,6 @@
 //referenced Ralph Phillips' YT Tutorial: Use Javascript to Display Random Trivia on Click
 // https://www.youtube.com/watch?v=PhKQFUJuArs&t=37s
 
-
-// 'use strict'
- 
-// const ud = require('urban-dictionary')
-
-
-// ud.random((error, result) => {
-//   if (error) {
-//     console.error(error.message)
-//   } else {
-//     console.log(result.word)
-//     console.log(result.definition)
-//     // console.log(result.example)
-//     var word = result.word;
-//   	console.log(word + ' [the word fuckin works]');
-//   	// document.getElementById('ud-term').innerHTML = word;
-// }
-
-// })
-
-
 var term = []
 term[0] = "<b><center>tea</center></b>" + "<br>" + 
 "<h6>the best kind of gossip, typically shared between friends.</h6>" + 
@@ -163,7 +142,7 @@ term[27] = "<b><center>stan</center></b>" + "<br>" +
 
 term[28] = "<b><center>goals</center></b>" + "<br>" + 
 "<h6>What dumbass girls say to each other on Instagram when someone posts a pic that is very attractive or is of something they aspire to, like a relationship. It's basically a way of sucking up to someone and it's almost as annoying and shallow as when girls post shit like 'omg stop being so perf!' and then of course the required response is 'no that's you bb 😘' and it goes back and forth like that. Both examples are typically found thoroughly nauseating by non-sheeple types and those who don't seek validation via Instagram likes</h6>" + 
-"<h6>[Ex.] <i>Person 1: Dude these kids have been waiting outside the concert since 8 A:M even though no one was lined up... <br> Person 2: What a bunch of <b>Stans</b></i></h6>" +
+"<h6>[Ex.] <i>Person 1: Dude these kids have been waiting outside the concert since 8 AM even though no one was lined up... <br> Person 2: What a bunch of <b>Stans</b></i></h6>" +
 "<h6>entry by elyxium [2015]</h6>";
 
 term[29] = "<b><center>simping</center></b>" + "<br>" + 
@@ -200,6 +179,31 @@ term[35] = "<b><center>get your mans</center></b>" + "<br>" +
 "<h6>A warning in which you let someone know to tell the person they are with to either relax or to stop acting in an irrational manner</h6>" + 
 "<h6>[Ex.] <i>Hey Kyle why is ya boy akin up, <b>get your mans</b> bro</i></h6>" +
 "<h6>entry by SydMak [2019]</h6>";
+
+term[36] = "<b><center>the plug</center></b>" + "<br>" + 
+"<h6>The Plug is a term used to describe someone who is a resource for obtaining something valuable that would otherwise be difficult to obtain.</h6>" + 
+"<h6>[Ex.] <i>ust got some free Travis Scott tix from <b>the plug</b> at Live Nation...you tryna go?</i></h6>" +
+"<h6>entry by  BulFromUptownPhilly [2016]</h6>";
+
+term[37] = "<b><center>tfw</center></b>" + "<br>" + 
+"<h6>That feel when <br> Followed by some feel you should be able to relate to.</h6>" + 
+"<h6>[Ex.] <i><b>TFW</b> you smoke the day's first cigarette</i></h6>" +
+"<h6>entry by feelsrapeman [2011]</h6>";
+
+term[38] = "<b><center>dead</center></b>" + "<br>" + 
+"<h6>1) The word you use when you find something hilarious. <br> 2) Not physically alive.</h6>" + 
+"<h6>[Ex.] <i>*Person saying something funny* <br> Other person: <b>Dead</b></i></h6>" +
+"<h6>entry by fhk x3 [2017]</h6>";
+
+term[39] = "<b><center>keep it 100</center></b>" + "<br>" + 
+"<h6>to keep yourself real and true, to be honest and stick to the way you are, no matter what any one else thinks.</h6>" + 
+"<h6>[Ex.] <i>I gotta stay focused and <b>keep it 100</b> these last few weeks of highschool so i can get into college. And that's real talk!</h6>" +
+"<h6>entry by HightowerBrownSkinStar [2005]</h6>";
+
+term[40] = "<b><center>fam</center></b>" + "<br>" + 
+"<h6>a word use to describe your peoples. ones that you can trust dearly. someone you consider family</h6>" + 
+"<h6>[Ex.] <i><b>my fam</b> wuz mad deep up in the club the other day</i></h6>" +
+"<h6>entry by Chris [2003]</h6>";
 
 function urbanTerm() {
 	var randomTerm = Math.floor(Math.random()*(term.length));
