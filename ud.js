@@ -150,7 +150,7 @@ term[29] = "<b><center>simping</center></b>" + "<br>" +
 "<h6>[Ex.] <i>ally: ni**a why you playing that sad music for? <br> dude: shut up ally, im <b>simping</b></i></h6>" +
 "<h6>entry by dirty dej [2016]</h6>";
 
-term[30] = "<b><center>alright</center></b>" + "<br>" + 
+term[30] = "<b><center>aright</center></b>" + "<br>" + 
 "<h6>saying alright but in a hip and ghetto way</h6>" + 
 "<h6>[Ex.] <i>'Clean the car,' she said. <br> '<b>Aight</b>.'</i></h6>" +
 "<h6>entry by ShexxiBaby [2003]</h6>";
@@ -182,7 +182,7 @@ term[35] = "<b><center>get your mans</center></b>" + "<br>" +
 
 term[36] = "<b><center>the plug</center></b>" + "<br>" + 
 "<h6>The Plug is a term used to describe someone who is a resource for obtaining something valuable that would otherwise be difficult to obtain.</h6>" + 
-"<h6>[Ex.] <i>ust got some free Travis Scott tix from <b>the plug</b> at Live Nation...you tryna go?</i></h6>" +
+"<h6>[Ex.] <i>Just got some free Travis Scott tix from <b>the plug</b> at Live Nation...you tryna go?</i></h6>" +
 "<h6>entry by  BulFromUptownPhilly [2016]</h6>";
 
 term[37] = "<b><center>tfw</center></b>" + "<br>" + 
